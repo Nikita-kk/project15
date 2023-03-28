@@ -139,7 +139,7 @@
                                 <div class="col-sm-6">
                                     <ul class="list-unstyled mb-0">
                                         <li><a href="#!">JavaScript</a></li>
-                                        <li><a href="#!">CSS</a></li>
+                                        <li><a href="#!">php</a></li>
                                         <li><a href="#!">Tutorials</a></li>
                                     </ul>
                                 </div>
